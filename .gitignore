@@ -1,0 +1,4 @@
+system/
+*.sprx
+*.self
+*.elf
