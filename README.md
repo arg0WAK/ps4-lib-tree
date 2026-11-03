@@ -19,11 +19,10 @@
 |               checking missing system modules (.sprx/.prx) and resolving    |
 |               dynamic library dependencies during game backporting.         |
 +-----------------------------------------------------------------------------+
-```
 
-```
-/system/common/lib/
-
++-----------------------------------------------------------------------------+
+| /system/common/lib/                                                         |
++-----------------------------------------------------------------------------+
 ├── custom_video_core.elf
 ├── I18N.CJK.dll.sprx
 ├── I18N.dll.sprx
